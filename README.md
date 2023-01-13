@@ -4,7 +4,8 @@
 
 <h1> 👋 Hello, I'm MD. Shahadot Hossain </h1>
 
-A full time Full Stack Developer 
+A full time Full Stack Developer
+<br>
 🏠 &nbsp; Living: Dhaka, Bangladesh
 
 <!-- Contact me section starts here  -->
@@ -23,7 +24,7 @@ A full time Full Stack Developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate computer science student & a developer. I have been learning programming languages, web development, and computer science-related subjects. I am improving my web development skills. Every day I want to learn something new and share my knowledge with my others.
+I'm a passionate computer science student & a developer. I have been learning programming languages, web development, and computer science-related subjects. I am improving my web development skills. Every day I want to learn something new and share my knowledge with my others.
 </p>
 
 <br />
@@ -44,15 +45,10 @@ I am a passionate computer science student & a developer. I have been learning p
 [<img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery.svg" />]
 [<img align="left" alt="mysql" title="mysql" width="45" hspace="5" src="./images/mysql.svg" />]
 [<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />]
-
 <br />
 <br />
 <br />
 
-<!--
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
--->
 <!-- web related skills section ends here  -->
 <!-- other skills and my videos for computer science section starts here  -->
 
@@ -64,7 +60,6 @@ I am a passionate computer science student & a developer. I have been learning p
 [<img align="left" alt="android" title="android" width="45" hspace="5" src="./images/android.svg" />]
 [<img align="left" alt="php" title="php" width="45" hspace="5" src="./images/php.svg" />]
 [<img align="left" alt="adobe photoshop" title="adobe photoshop" width="45" hspace="5" src="./images/photoshop.svg" />]
-
 <br/>
 <br/>
 <br/>
