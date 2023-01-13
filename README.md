@@ -1,6 +1,3 @@
-### Hi there 👋
-- 🌱 I’m currently learning Laravel & React JS
-
 <!-- banner image starts here  -->
 <img src="./images/banner.png" width="100%">
 <!-- banner image ends here  -->
@@ -26,7 +23,7 @@ A full time Full Stack Developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
+I am a passionate computer science student & a developer. I have been learning programming languages, web development, and computer science-related subjects. I am improving my web development skills. Every day I want to learn something new and share my knowledge with my others.
 </p>
 
 <br />
@@ -34,94 +31,55 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <!-- web related skills section starts here  -->
 
-### 👨🏽‍💻 &nbsp; My Skills & Videos:
+### 👨🏽‍💻 &nbsp; My Skills:
 
-#### Key Skills & Videos on Web development:
+#### Key Skills on Web development:
 
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />][htmlplaylist]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />][cssplaylist]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />][reactplaylist]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />][nodeandexpressplaylist]
+[<img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />]
+[<img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />]
+[<img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap.svg" />]
+[<img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js.svg" />]
+[<img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json.svg" />]
+[<img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />]
+[<img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery.svg" />]
+[<img align="left" alt="mysql" title="mysql" width="45" hspace="5" src="./images/mysql.svg" />]
+[<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />]
+
+<br />
+<br />
+<br />
+
+<!--
+[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />]
 [<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
-
-<br />
-<br />
-<br />
-
+-->
 <!-- web related skills section ends here  -->
 <!-- other skills and my videos for computer science section starts here  -->
 
-#### Other Skills & Videos:
+#### Other Skills:
 
-[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />][cplaylist]
-[<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />][cplusplaylist]
-[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />][javaplaylist]
-[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />][androidplaylist]
-[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />][pythonplaylist]
+[<img align="left" alt="laravel" title="laravel" width="45" hspace="5" src="./images/laravel.svg" />]
+[<img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />]
+[<img align="left" alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />]
+[<img align="left" alt="android" title="android" width="45" hspace="5" src="./images/android.svg" />]
+[<img align="left" alt="php" title="php" width="45" hspace="5" src="./images/php.svg" />]
+[<img align="left" alt="adobe photoshop" title="adobe photoshop" width="45" hspace="5" src="./images/photoshop.svg" />]
 
 <br/>
 <br/>
 <br/>
-
-- [Full-stack web development (Bangla)][fullstackplaylist]
-- [Artificial Intelligence (English)][aienglishplaylist]
-- [Artificial Intelligence (Bangla)][aibanglaplaylist]
-- [Java Swing][javaswingplaylist]
-- [Discrte Math][dsplaylist]
-- [Numerical Method][numericalplaylist]
-- [Theory of computation][tocplaylist]
-- [Compiler][compilerplaylist]
-- [Networking][networkingplaylist]
-- [Operating System][operatingsystemplaylist]
-- [HSC ICT][hscictplaylist]
-- [Learn for skill][learnforskillplaylist]
-- [MS Word][mswordplaylist]
-- [MS Excel][msexcelplaylist]
-- [MS powerpoint][mspowerpointplaylist]
-  <!-- other skills and my videos for computer science section ends here  -->
-
-  <br/>
 
 <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrcreation)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shrcreation&show_icons=true)
 
 <br/>
 
 <!-- github stats ends here  -->
-  <!-- latest youtube videos starts here -->
-
-#### 📹 &nbsp; My Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Ecommerce project in Bangla part-4 : responsive navbar | HTML, CSS](https://www.youtube.com/watch?v=NV96Ri2hPOc)
-- [Ecommerce project in Bangla part-3 : create navbar | HTML, CSS](https://www.youtube.com/watch?v=8JH_u12rly8)
-- [Ecommerce project in Bangla part-2 : basic project setup | HTML, CSS](https://www.youtube.com/watch?v=TghPOgCxpmQ)
-- [Ecommerce project in Bangla part-1 : project demo | HTML, CSS](https://www.youtube.com/watch?v=lOtbmPaPs24)
-- [PERN Stack Bangla 12 : update data in Postgres database](https://www.youtube.com/watch?v=aTN-9a2U9rc)
-<!-- YOUTUBE:END -->
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
-alt="Java" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fRXL0X2WSK4" target="_blank"><img src="https://img.youtube.com/vi/fRXL0X2WSK4/3.jpg" 
-alt="Java" width="240" height="180" border="10" /></a>
-
-↪️ &nbsp; [search more videos...](https://www.youtube.com/c/anisulislamrubel)
-
-<br/>
-
-<!-- latest youtube videos ends here -->
 
 <!-- other skills and my videos for computer science section starts here  -->
 
@@ -131,14 +89,8 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Full-stack trainer  | Integrify                                   | Aug 2022 - Running  | Helsinki, Finland  |
-| Software Engineer   | M-Files                                     | Nov 2021 - Feb 2022 | Tampere, Finland   |
-| Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
-| Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
-| Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
-| Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
-| Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
-| Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
+| Full-stack developer| Global Skills Development Agency            | Feb 2022 - Sep 2022 | Dhaka, Bangladesh  |
+| Web Developer       | Abeer Food Ltd                              | Oct 2022 - Jan 2023 | Dhaka, Bangladesh  |
 
 <br />
 <!-- work experience section ends here  -->
@@ -146,28 +98,66 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-1. M.Sc. in Software, Web & Cloud  
-   Tampere University  
-   Tampere, Finland.
-2. B.Sc. in Computer Science & Engineering  
-   Leading University  
-   Sylhet, Bangladesh.
-3. Professional Diploma in Travel & Tourism  
-    London School of Commerce & IT  
-   London, England.
+1. B.Sc. in Computer Science & Engineering  
+   Green University  
+   Dhaka, Bangladesh.
+   
+2. Higher Secondary School Certificate
+   Govt. Shah Sultan College 
+   Bogra, Bangladesh.
+   
+3. Secondary School Certificate
+   R.B Govt. High School 
+   Joypurhat, Bangladesh
 
 <br />
 
 <!-- education section ends here  -->
+
+<!-- training section starts here  -->
+
+### 👨🏻‍🎓 &nbsp; Training
+
+1. Laravel & React Specialist 
+   Started Laravel & React at Global Skills Development Agency 
+   Dhaka, Bangladesh.
+   Period: 11/22-present
+   
+2. Advance Mobile App Marketing
+   Complete Advance Mobile App Marketing at MSB Academy
+   Dhaka, Bangladesh.
+   Period: 02/20 to 07/20
+   
+3. Android App Development
+   Complete Android App Development at MSB Academy 
+   Dhaka, Bangladesh
+   Period: 07/19 to 01/20
+   
+4. Web Development
+   Complete Web Development at New Horizon
+   Dhaka, Bangladesh
+   Period: 09/17 to 02/18
+
+5. Web Designer
+   Complete Web Designer at Creative It Institute
+   Dhaka, Bangladesh
+   Period: 02/17 to 07/17
+
+6. Basic Photography
+   Pathshala Institute
+   Dhaka, Bangladesh
+   Period: 02/18 to 05/18   
+
+
+<!-- training section ends here  -->
 
 <!-- my languages section starts here  -->
 
 ### Languages:
 
 - 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Communication
 - 🇮🇳 Hindi : Intermediate
-- 🇧🇷 Portugues : Basic
   <br />
 
 <!-- my languages section ends here  -->
@@ -176,7 +166,7 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 ### Sports / Game / Activities / Hobby:
 
-- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton,
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 - ✈️ Travelling
 
@@ -185,6 +175,7 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 <!-- Honors & awards section starts here  -->
 
+<!--
 ### 🏅 Honors & Awards :
 
 - 100% Scholarship in Masters at Tampere University, Finland
@@ -192,9 +183,10 @@ alt="Java" width="240" height="180" border="10" /></a>
 - Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
 
 ---
+-->
 
 Thanks for going through my Portfolio.
-All rights reserved by Anisul Islam @2021
+All rights reserved by MD. Shahadot Hossain @2023
 
 ---
 
@@ -202,51 +194,11 @@ All rights reserved by Anisul Islam @2021
 
 <!-- Links section starts here -->
 
-[website]: http://www.studywithanis.com/
-[youtube]: https://www.youtube.com/c/anisulislamrubel
-[facebook]: https://www.facebook.com/studywithanis/
-[linkedin]: https://www.linkedin.com/in/anisul2020/
-[github]: https://github.com/anisul-Islam
-
-<!-- web related playlists starts here  -->
-[fullstackplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p06YY1fyReA2UK8mh_zsiY
-[htmlplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3
-[cssplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO
-[bootstrapplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG
-[javascriptplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX
-[jsonplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rWYYIcCykektDcb_1IPDz4
-[sassplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qOvGYtFb3Z7KVMLrijYdqO
-[jqueryplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB
-[reactplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rGtitufynBKMy5gAFpa1y8
-[nodeandexpressplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-[mongodbplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-[mysqlplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD
-[githubplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-
-<!-- web related playlists ends here  -->
-
-<!-- cse related playlists starts here  -->
-[cplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz
-[cplusplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL
-[javaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
-[androidplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5
-[pythonplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN
-[aienglishplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rRVV7oeML93OVAxqQ-CvzV
-[aibanglaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oFAaeJxjDWA8kEbMutzV6V
-[javaswingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l
-[numericalplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z
-[operatingsystemplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3r_SuT0AnOEoElfQQPgkBIq
-[dsplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rYy9DVhk28m8enSo8xxiZ3
-[tocplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0
-[compilerplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oWTwTgILA7v9oysoDgkJDg
-[networkingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p5OI88r3ob-otmKqIm_DbS
-[hscictplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3o8Y-CKhmyodbfHAc9VSVOv
-[learnforskillplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qyJVIaeHSqiRWOyO6HW023
-[mswordplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p21lsneT3cW4CJL4Bd1lJ2
-[mspowerpointplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pBnrckqfJ2zn7FL6Q_LNcm
-[msexcelplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3ohKCQMR7aopneByGX05iSK
-
-<!-- cse related playlists ends here  -->
+[website]: http://www.shrcreation.com/
+[youtube]: https://www.youtube.com/channel/UC6ilHykZxnKn0PNxZgsx1Dw
+[facebook]: https://web.facebook.com/shahadot.shr.rahat/
+[linkedin]: https://www.linkedin.com/in/shahadot786
+[github]: https://github.com/shrcreation
 
 <!-- Links section ends here -->
 
