@@ -116,9 +116,9 @@ I'm a passionate computer science student & a developer. I have been learning pr
 ### 👨🏻‍🎓 &nbsp; Training
 
 1. Laravel & React Specialist 
-   Started Laravel & React at Global Skills Development Agency 
-   Dhaka, Bangladesh.
-   Period: 11/22-present
+   <br />Started Laravel & React at Global Skills Development Agency 
+   <br />Dhaka, Bangladesh.
+   <br />Period: 11/22-present
    
 2. Advance Mobile App Marketing
    <br />Complete Advance Mobile App Marketing at MSB Academy
