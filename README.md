@@ -5,7 +5,7 @@
 <h1> 👋 Hello, I'm MD. Shahadot Hossain </h1>
 
 A full time Full Stack Developer
-<br>
+<br />
 🏠 &nbsp; Living: Dhaka, Bangladesh
 
 <!-- Contact me section starts here  -->
@@ -64,13 +64,13 @@ I'm a passionate computer science student & a developer. I have been learning pr
 <br/>
 <br/>
 
-<!-- github stats starts here  -->
+<!-- github stats starts here  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrcreation)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shrcreation&show_icons=true)
+
+-->
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br/>
 
@@ -98,12 +98,14 @@ I'm a passionate computer science student & a developer. I have been learning pr
    Dhaka, Bangladesh.
    
 2. Higher Secondary School Certificate
+   <br />
    Govt. Shah Sultan College 
+   <br />
    Bogra, Bangladesh.
    
 3. Secondary School Certificate
-   R.B Govt. High School 
-   Joypurhat, Bangladesh
+   <br />R.B Govt. High School 
+   <br />Joypurhat, Bangladesh
 
 <br />
 
@@ -119,29 +121,29 @@ I'm a passionate computer science student & a developer. I have been learning pr
    Period: 11/22-present
    
 2. Advance Mobile App Marketing
-   Complete Advance Mobile App Marketing at MSB Academy
-   Dhaka, Bangladesh.
-   Period: 02/20 to 07/20
+   <br />Complete Advance Mobile App Marketing at MSB Academy
+   <br />Dhaka, Bangladesh.
+   <br />Period: 02/20 to 07/20
    
 3. Android App Development
-   Complete Android App Development at MSB Academy 
-   Dhaka, Bangladesh
-   Period: 07/19 to 01/20
+   <br />Complete Android App Development at MSB Academy 
+   <br />Dhaka, Bangladesh
+   <br />Period: 07/19 to 01/20
    
 4. Web Development
-   Complete Web Development at New Horizon
-   Dhaka, Bangladesh
-   Period: 09/17 to 02/18
+   <br />Complete Web Development at New Horizon
+   <br />Dhaka, Bangladesh
+   <br />Period: 09/17 to 02/18
 
 5. Web Designer
-   Complete Web Designer at Creative It Institute
-   Dhaka, Bangladesh
-   Period: 02/17 to 07/17
+   <br />Complete Web Designer at Creative It Institute
+   <br />Dhaka, Bangladesh
+   <br />Period: 02/17 to 07/17
 
 6. Basic Photography
-   Pathshala Institute
-   Dhaka, Bangladesh
-   Period: 02/18 to 05/18   
+   <br />Pathshala Institute
+   <br />Dhaka, Bangladesh
+   <br />Period: 02/18 to 05/18   
 
 
 <!-- training section ends here  -->
