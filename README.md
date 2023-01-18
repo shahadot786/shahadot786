@@ -58,6 +58,7 @@ I'm a passionate computer science student & a developer. I have been learning pr
 [<img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />]
 [<img align="left" alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />]
 [<img align="left" alt="android" title="android" width="45" hspace="5" src="./images/android.svg" />]
+[<img align="left" alt="react-native" title="react-native" width="45" hspace="5" src="./images/react.svg" />]
 [<img align="left" alt="php" title="php" width="45" hspace="5" src="./images/php.svg" />]
 [<img align="left" alt="adobe photoshop" title="adobe photoshop" width="45" hspace="5" src="./images/photoshop.svg" />]
 <br/>
