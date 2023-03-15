@@ -85,8 +85,9 @@ I'm a passionate computer science student & a developer. I have been learning pr
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Full-stack developer| Global Skills Development Agency            | Feb 2022 - Sep 2022 | Dhaka, Bangladesh  |
+| Full-Stack Developer| TFP Solutions Bangladesh Ltd                | Mar 2023 - Continue | Dhaka, Bangladesh  |
 | Web Developer       | Abeer Food Ltd                              | Oct 2022 - Jan 2023 | Dhaka, Bangladesh  |
+| Full-Stack developer| Global Skills Development Agency            | Feb 2022 - Sep 2022 | Dhaka, Bangladesh  |
 
 <br />
 <!-- work experience section ends here  -->
