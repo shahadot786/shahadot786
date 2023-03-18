@@ -111,7 +111,6 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 | Web Developer       | Abeer Food Ltd                              | Oct 2022 - Jan 2023 | Dhaka, Bangladesh  |
 | Full-Stack developer| Global Skills Development Agency            | Feb 2022 - Sep 2022 | Dhaka, Bangladesh  |
 
-<br />
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
