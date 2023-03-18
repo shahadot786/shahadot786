@@ -48,7 +48,7 @@ I'm a passionate computer science student & a developer. I have been learning pr
 
 <br>
 <a href="https://github.com/shahadot786">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadot786&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=282A36" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadot786&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=282A36" />
 </a>
 <a href="https://github.com/shahadot786">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shahadot786&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=282A36" alt="Shahadot's GitHub Stats" />
