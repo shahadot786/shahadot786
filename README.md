@@ -57,7 +57,7 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 <br>
 
 <!-- web related skills section starts here  -->
-## 💼 Skills
+## 👨🏽‍💻 Skills
 
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=15c55d)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=15c55d)
