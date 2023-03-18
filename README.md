@@ -5,9 +5,9 @@
 
 <!-- <h1> 👋 Hello, I'm MD. Shahadot Hossain </h1> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Shahadot&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Shahadot&height=200&section=header"/>
 </p>
-<!-- History Snake -->
+
 ![Snake animation](https://github.com/shahadot786/shahadot786/blob/output/github-contribution-grid-snake.svg)
 
 <!-- A full time Full Stack Developer
@@ -30,7 +30,7 @@
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I'm Md. shahadot hossain, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. Also I work with backend.</p>
+I'm Md.shahadot hossain, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. Also I work with backend.</p>
 
 Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 <br/>
