@@ -211,4 +211,7 @@ All rights reserved by MD. Shahadot Hossain @2023
 [github]: https://github.com/shrcreation
 
 <!-- Links section ends here -->
+<!-- Snake Animation -->
+## 📈 My GitHub History!
+![Snake animation](https://github.com/shahadot786/shahadot786/blob/output/github-contribution-grid-snake.svg)
 
