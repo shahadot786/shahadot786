@@ -27,8 +27,7 @@ A full time Full Stack Developer
 <p align="justify">
 I'm shahadot hossain, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. Also I work with backend.</p>
 
-<br />
-Want to know more about me? [Check out my portfolio.][https://shrcreation.com/]
+Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 <br/>
 <!-- about-me section ends here  -->
 
