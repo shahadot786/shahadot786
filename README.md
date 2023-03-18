@@ -34,19 +34,26 @@ I'm a passionate computer science student & a developer. I have been learning pr
 ## 📌 Pinned Repositories
 
 <br>
-
 <a href="https://github.com/shahadot786/Python-Books">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahadot786&repo=Python-Books&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=282A36" />
 </a>
-
 <br>
-
 <br>
-
 <a href="https://github.com/shahadot786/JScript-Learn-JavaScript">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahadot786&repo=JScript-Learn-JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=282A36" />
 </a>
+<br>
 
+## &#x1f4c8; GitHub Stats
+
+<br>
+<a href="https://github.com/shahadot786">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadot786&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=282A36" />
+</a>
+<a href="https://github.com/shahadot786">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shahadot786&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=282A36" alt="Shahadot's GitHub Stats" />
+</a>
+<br>
 <br>
 
 <!-- web related skills section starts here  -->
