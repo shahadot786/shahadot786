@@ -25,10 +25,11 @@ A full time Full Stack Developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I'm a passionate computer science student & a developer. I have been learning programming languages, web development, and computer science-related subjects. I am improving my web development skills. Every day I want to learn something new and share my knowledge with my others.
-</p>
+I'm shahadot hossain, a senior a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. I also work with backend.</p>
 
 <br />
+Want to know more about me? [Check out my portfolio.][website]
+<br/>
 <!-- about-me section ends here  -->
 
 ## 📌 Pinned Repositories
