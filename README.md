@@ -1,14 +1,15 @@
 <!-- banner image starts here  -->
 <!-- <img src="./images/banner.png" width="100%"> -->
-<!-- <img src="./images/welcome.gif" width="100%"> -->
+<img src="./images/welcome.gif" width="100%">
 <!-- banner image ends here  -->
+
 <h1> 👋 Hello, I'm MD. Shahadot Hossain </h1>
-<!-- ## 📈 My GitHub History! -->
+
 ![Snake animation](https://github.com/shahadot786/shahadot786/blob/output/github-contribution-grid-snake.svg)
 
-A full time Full Stack Developer
+<!-- A full time Full Stack Developer
 <br />
-🏠 &nbsp; Living: Dhaka, Bangladesh
+🏠 &nbsp; Living: Dhaka, Bangladesh -->
 
 <!-- Contact me section starts here  -->
 
@@ -213,5 +214,6 @@ All rights reserved by MD. Shahadot Hossain @2023
 
 <!-- Links section ends here -->
 <!-- Snake Animation -->
-
+<!-- ## 📈 My GitHub History! -->
+<!-- ![Snake animation](https://github.com/shahadot786/shahadot786/blob/output/github-contribution-grid-snake.svg) -->
 
