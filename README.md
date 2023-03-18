@@ -57,39 +57,55 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 <br>
 
 <!-- web related skills section starts here  -->
+## 💼 Skills
 
-### 👨🏽‍💻 &nbsp; My Skills:
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-Native-informational?style=flat&logo=react-native&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Json-informational?style=flat&logo=json&logoColor=white&color=4AB197)
 
-#### Key Skills on Web development:
+<details>
+<summary>More Skills</summary>
+<br>
 
-[<img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />]
-[<img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />]
-[<img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap.svg" />]
-[<img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js.svg" />]
-[<img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json.svg" />]
-[<img align="left" alt="sass" title="sass" width="45" hspace="5" src="./images/sass.svg" />]
-[<img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery.svg" />]
-[<img align="left" alt="mysql" title="mysql" width="45" hspace="5" src="./images/mysql.svg" />]
-[<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />]
-<br />
-<br />
-<br />
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
 
-<!-- web related skills section ends here  -->
-<!-- other skills and my videos for computer science section starts here  -->
+<br>
+<!--
+![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+ -->
 
-#### Other Skills:
+<br>
 
-[<img align="left" alt="laravel" title="laravel" width="45" hspace="5" src="./images/laravel.svg" />]
-[<img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />]
-[<img align="left" alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />]
-[<img align="left" alt="android" title="android" width="45" hspace="5" src="./images/android.svg" />]
-[<img align="left" alt="react-native" title="react-native" width="45" hspace="5" src="./images/react.svg" />]
-[<img align="left" alt="php" title="php" width="45" hspace="5" src="./images/php.svg" />]
-[<img align="left" alt="adobe photoshop" title="adobe photoshop" width="45" hspace="5" src="./images/photoshop.svg" />]
-<br/>
-<br/>
-<br/>
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
+
+</details>
+
+<br>
 
 <!-- github stats starts here  
 
