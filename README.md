@@ -115,7 +115,7 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
-### 👨🏻‍🎓 &nbsp; Education
+<!-- ### 👨🏻‍🎓 &nbsp; Education
 
 1. B.Sc. in Computer Science & Engineering  
    Green University  
@@ -137,7 +137,7 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 
 <!-- training section starts here  -->
 
-### 👨🏻‍🎓 &nbsp; Training
+<!-- ### 👨🏻‍🎓 &nbsp; Training
 
 1. Laravel & React Specialist 
    <br />Started Laravel & React at Global Skills Development Agency 
@@ -174,14 +174,12 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 
 <!-- my languages section starts here  -->
 
-### Languages:
+<!-- ### Languages:
 
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Communication
 - 🇮🇳 Hindi : Intermediate
-  <br />
-
-<!-- my languages section ends here  -->
+  <br /> -->
 
 <!-- my sports and game section starts here  -->
 
