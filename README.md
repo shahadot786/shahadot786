@@ -1,5 +1,6 @@
 <!-- banner image starts here  -->
-<img src="./images/banner.png" width="100%">
+<!-- <img src="./images/banner.png" width="100%"> -->
+<img src="./images/welcome.gif" width="100%">
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm MD. Shahadot Hossain </h1>
