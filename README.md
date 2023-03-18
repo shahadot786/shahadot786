@@ -35,12 +35,12 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 
 <br>
 <a href="https://github.com/shahadot786/Python-Books">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahadot786&repo=Python-Books&title_color=ffffff&text_color=c9cacc&icon_color=282A36&bg_color=282A36" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahadot786&repo=Python-Books&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=282A36" />
 </a>
 <br>
 <br>
 <a href="https://github.com/shahadot786/JScript-Learn-JavaScript">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahadot786&repo=JScript-Learn-JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=282A36&bg_color=282A36" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahadot786&repo=JScript-Learn-JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=282A36" />
 </a>
 <br>
 
@@ -101,8 +101,6 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=15c55d)
 
 </details>
-
-<br>
 <!-- work experience section starts here  -->
 
 ### 💼 &nbsp; Employment History
