@@ -41,6 +41,14 @@ I'm a passionate computer science student & a developer. I have been learning pr
 
 <br>
 
+<br>
+
+<a href="https://github.com/shahadot786/JScript-Learn-JavaScript">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahadot786&repo=JScript-Learn-JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=282A36" />
+</a>
+
+<br>
+
 <!-- web related skills section starts here  -->
 
 ### 👨🏽‍💻 &nbsp; My Skills:
