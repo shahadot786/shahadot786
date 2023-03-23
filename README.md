@@ -10,7 +10,7 @@
 </p>
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome_to_my_Profile&height=200&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Good_things_take_time!&height=200&section=header"/>
 </p>
 
 ![Snake animation](https://github.com/shahadot786/shahadot786/blob/output/github-contribution-grid-snake.svg)
