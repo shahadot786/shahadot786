@@ -23,13 +23,13 @@
 
 - 📫 How to reach me **shrhossain786@gmail.com**
 
-- 📄 Know about my experiences [https://shrcreation.com/static/media/Shahadot.1c30352625892b6a1387.pdf](https://shrcreation.com/static/media/Shahadot.1c30352625892b6a1387.pdf)
+- 📄 Know about my experiences [Personal Resume(CV)](https://github.com/shahadot786/shahadot786/blob/main/images/MD%20Shahadot%20Hossain.pdf)
 
-- ⚡ Fun fact **Really I am so funny!**
+- ⚡ Fun fact **Really I am so funny!😬**
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,9 +62,9 @@
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Full-Stack Developer| TFP Solutions Bangladesh Ltd                | Mar 2023 - Continue | Dhaka, Bangladesh  |
-| Web Developer       | Abeer Food Ltd                              | Oct 2022 - Jan 2023 | Dhaka, Bangladesh  |
-| Full-Stack developer| Global Skills Development Agency            | Feb 2022 - Sep 2022 | Dhaka, Bangladesh  |
+| Full-Stack Developer| TFP Solutions Bangladesh Ltd                | Jan 2023 - Continue | Dhaka, Bangladesh  |
+| Web Developer       |  Global Skills Development Agency           | Oct 2022 - Dec 2023 | Dhaka, Bangladesh  |
+| Full-Stack developer| Abeer Food Ltd                              | Mar 2022 - Sep 2022 | Dhaka, Bangladesh  |
 
 ### Languages:
 
@@ -76,6 +76,7 @@
 
 ### Sports / Game / Activities / Hobby:
 
+- Coding, Problem Solving...
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton,
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 - ✈️ Travelling
