@@ -1,18 +1,18 @@
 <!-- banner image starts here  -->
 <!-- <img src="./images/banner.png" width="100%"> -->
-<!-- <img src="./images/welcome.gif" width="100%"> -->
+<img src="./images/welcome.gif" width="100%">
 <!-- banner image ends here  -->
 
-<!-- <h1> 👋 Hello, I'm MD. Shahadot Hossain </h1> -->
-<p align="center">
+<h1> 👋 Hello, I'm MD. Shahadot Hossain </h1>
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello, I'm MD.Shahadot Hossain!&height=120&section=header"/>
 </p>
 
-![Snake animation](https://github.com/shahadot786/shahadot786/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/shahadot786/shahadot786/blob/output/github-contribution-grid-snake.svg) -->
 
-<!-- A full time Full Stack Developer
+📱 Mobile App Enthusiast | React Native Developer 💻
 <br />
-🏠 &nbsp; Living: Dhaka, Bangladesh -->
+🏠 &nbsp; Living: Dhaka, Bangladesh
 
 <!-- Contact me section starts here  -->
 
@@ -30,10 +30,14 @@
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I'm shahadot hossain, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. Also I work with backend.</p>
+
+👋 Hey there! I'm MD. Shahadot Hossain, a passionate React Native developer with a love for creating cross-platform mobile applications. I'm on a mission to build sleek, high-performance apps that users can't get enough of.
+
+🚀 Constantly exploring the latest in React Native, I thrive on the challenges of crafting seamless user experiences across iOS and Android. From sleek UI designs to optimized performance, I'm all about delivering excellence.</p>
 
 Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 <br/>
+
 <!-- about-me section ends here  -->
 
 ## 📌 Pinned Repositories
@@ -62,6 +66,7 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 <br>
 
 <!-- web related skills section starts here  -->
+
 ## 👨🏽‍💻 Skills
 
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=15c55d)
@@ -87,14 +92,6 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=15c55d)
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=15c55d)
 
-<!--
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=15c55d)
- -->
-
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=15c55d)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=15c55d)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=15c55d)
@@ -110,29 +107,30 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 
 ### 💼 &nbsp; Employment History
 
-| Position            | Institute                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Full-Stack Developer| TFP Solutions Bangladesh Ltd                | Mar 2023 - Continue | Dhaka, Bangladesh  |
-| Web Developer       | Abeer Food Ltd                              | Oct 2022 - Jan 2023 | Dhaka, Bangladesh  |
-| Full-Stack developer| Global Skills Development Agency            | Feb 2022 - Sep 2022 | Dhaka, Bangladesh  |
+| Position               | Institute                        | Duration             | Location          |
+| ---------------------- | -------------------------------- | -------------------- | ----------------- |
+| React-Native Developer | HawkEyes Digital Monitoring Ltd  | June 2023 - Continue | Dhaka, Bangladesh |
+| React-Native Developer | TFP Solutions Bangladesh Ltd     | Mar 2023 - May 2023  | Dhaka, Bangladesh |
+| Web Developer          | Abeer Food Ltd                   | Oct 2022 - Jan 2023  | Dhaka, Bangladesh |
+| Web developer          | Global Skills Development Agency | Feb 2022 - Sep 2022  | Dhaka, Bangladesh |
 
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
 <!-- ### 👨🏻‍🎓 &nbsp; Education
 
-1. B.Sc. in Computer Science & Engineering  
-   Green University  
+1. B.Sc. in Computer Science & Engineering
+   Green University
    Dhaka, Bangladesh.
-   
+
 2. Higher Secondary School Certificate
    <br />
-   Govt. Shah Sultan College 
+   Govt. Shah Sultan College
    <br />
    Bogra, Bangladesh.
-   
+
 3. Secondary School Certificate
-   <br />R.B Govt. High School 
+   <br />R.B Govt. High School
    <br />Joypurhat, Bangladesh
 
 <br />
@@ -143,21 +141,21 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 
 <!-- ### 👨🏻‍🎓 &nbsp; Training
 
-1. Laravel & React Specialist 
-   <br />Started Laravel & React at Global Skills Development Agency 
+1. Laravel & React Specialist
+   <br />Started Laravel & React at Global Skills Development Agency
    <br />Dhaka, Bangladesh.
    <br />Period: 11/22-present
-   
+
 2. Advance Mobile App Marketing
    <br />Complete Advance Mobile App Marketing at MSB Academy
    <br />Dhaka, Bangladesh.
    <br />Period: 02/20 to 07/20
-   
+
 3. Android App Development
-   <br />Complete Android App Development at MSB Academy 
+   <br />Complete Android App Development at MSB Academy
    <br />Dhaka, Bangladesh
    <br />Period: 07/19 to 01/20
-   
+
 4. Web Development
    <br />Complete Web Development at New Horizon
    <br />Dhaka, Bangladesh
@@ -171,7 +169,7 @@ Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
 6. Basic Photography
    <br />Pathshala Institute
    <br />Dhaka, Bangladesh
-   <br />Period: 02/18 to 05/18   
+   <br />Period: 02/18 to 05/18
 
 
 <!-- training section ends here  -->
@@ -213,10 +211,9 @@ All rights reserved by MD. Shahadot Hossain @2023
 [youtube]: https://www.youtube.com/channel/UC6ilHykZxnKn0PNxZgsx1Dw
 [facebook]: https://web.facebook.com/shahadot.shr.rahat/
 [linkedin]: https://www.linkedin.com/in/shahadot786
-[github]: https://github.com/shrcreation
+[github]: https://github.com/shahadot786
 
 <!-- Links section ends here -->
 <!-- Snake Animation -->
 <!-- ## 📈 My GitHub History! -->
 <!-- ![Snake animation](https://github.com/shahadot786/shahadot786/blob/output/github-contribution-grid-snake.svg) -->
-
