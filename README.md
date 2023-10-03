@@ -1,219 +1,43 @@
-<!-- banner image starts here  -->
-<!-- <img src="./images/banner.png" width="100%"> -->
-<img src="./images/welcome.gif" width="100%">
-<!-- banner image ends here  -->
+<h1 align="center">Hi 👋, I'm MD Shahadot Hossain</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<h1> 👋 Hello, I'm MD. Shahadot Hossain </h1>
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello, I'm MD.Shahadot Hossain!&height=120&section=header"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadot786&label=Profile%20views&color=0e75b6&style=flat" alt="shahadot786" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadot786" alt="shahadot786" /></a> </p>
+
+- 🔭 I’m currently working on [Nagad Merchandising AI Solutions](https://play.google.com/store/apps/developer?id=HawkEyes+Digital+Monitoring+Limited)
+
+- 🌱 I’m currently learning **Kotlin**
+
+- 👯 I’m looking to collaborate on [devsonket](https://github.com/devsonket/devsonket.github.io)
+
+- 🤝 I’m looking for help with [The React Native Developer Roadmap](https://github.com/hayanisaid/React-Native-developer-roadmap)
+
+- 👨‍💻 All of my projects are available at [https://github.com/shahadot786](https://github.com/shahadot786)
+
+- 📝 I regularly write articles on [echobytes.xyz](echobytes.xyz)
+
+- 💬 Ask me about **JavaScript, React, React-Native & Kotlin**
+
+- 📫 How to reach me **shrhossain786@gmail.com**
+
+- 📄 Know about my experiences [echobytes.xyz](echobytes.xyz)
+
+- ⚡ Fun fact **I'm so boring!!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shahadot786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahadot786" height="30" width="40" /></a>
+<a href="https://fb.com/shahadot.shr.rahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahadot.shr.rahat" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/possiblemind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="possiblemind" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shahadot_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahadot_786" height="30" width="40" /></a>
 </p>
 
-<!-- ![Snake animation](https://github.com/shahadot786/shahadot786/blob/output/github-contribution-grid-snake.svg) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-📱 Mobile App Enthusiast | React Native Developer 💻
-<br />
-🏠 &nbsp; Living: Dhaka, Bangladesh
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadot786&show_icons=true&locale=en&layout=compact" alt="shahadot786" /></p>
 
-<!-- Contact me section starts here  -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahadot786&show_icons=true&locale=en" alt="shahadot786" /></p>
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
-<br />
-<br />
-
-<!-- Contact me section ends here  -->
-
-<!-- about-me section starts here  -->
-
-### 👨‍🏫 &nbsp; About Me
-
-<p align="justify">
-
-👋 Hey there! I'm MD. Shahadot Hossain, a passionate React Native developer with a love for creating cross-platform mobile applications. I'm on a mission to build sleek, high-performance apps that users can't get enough of.
-
-🚀 Constantly exploring the latest in React Native, I thrive on the challenges of crafting seamless user experiences across iOS and Android. From sleek UI designs to optimized performance, I'm all about delivering excellence.</p>
-
-Want to know more about me? [Check out my portfolio.](https://shrcreation.com/)
-<br/>
-
-<!-- about-me section ends here  -->
-
-## 📌 Pinned Repositories
-
-<br>
-<a href="https://github.com/shahadot786/Python-Books">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahadot786&repo=Python-Books&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=282A36" />
-</a>
-<br>
-<br>
-<a href="https://github.com/shahadot786/JScript-Learn-JavaScript">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahadot786&repo=JScript-Learn-JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=282A36" />
-</a>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-<a href="https://github.com/shahadot786">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadot786&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=282A36&bg_color=282A36" />
-</a>
-<a href="https://github.com/shahadot786">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shahadot786&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=282A36" alt="Shahadot's GitHub Stats" />
-</a>
-<br>
-<br>
-
-<!-- web related skills section starts here  -->
-
-## 👨🏽‍💻 Skills
-
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Code-Json-informational?style=flat&logo=json&logoColor=white&color=15c55d)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=15c55d)
-
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=15c55d)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=15c55d)
-
-</details>
-<!-- work experience section starts here  -->
-
-### 💼 &nbsp; Employment History
-
-| Position               | Institute                        | Duration             | Location          |
-| ---------------------- | -------------------------------- | -------------------- | ----------------- |
-| React-Native Developer | HawkEyes Digital Monitoring Ltd  | June 2023 - Continue | Dhaka, Bangladesh |
-| React-Native Developer | TFP Solutions Bangladesh Ltd     | Mar 2023 - May 2023  | Dhaka, Bangladesh |
-| Web Developer          | Abeer Food Ltd                   | Oct 2022 - Jan 2023  | Dhaka, Bangladesh |
-| Web developer          | Global Skills Development Agency | Feb 2022 - Sep 2022  | Dhaka, Bangladesh |
-
-<!-- work experience section ends here  -->
-<!-- education section starts here  -->
-
-<!-- ### 👨🏻‍🎓 &nbsp; Education
-
-1. B.Sc. in Computer Science & Engineering
-   Green University
-   Dhaka, Bangladesh.
-
-2. Higher Secondary School Certificate
-   <br />
-   Govt. Shah Sultan College
-   <br />
-   Bogra, Bangladesh.
-
-3. Secondary School Certificate
-   <br />R.B Govt. High School
-   <br />Joypurhat, Bangladesh
-
-<br />
-
-<!-- education section ends here  -->
-
-<!-- training section starts here  -->
-
-<!-- ### 👨🏻‍🎓 &nbsp; Training
-
-1. Laravel & React Specialist
-   <br />Started Laravel & React at Global Skills Development Agency
-   <br />Dhaka, Bangladesh.
-   <br />Period: 11/22-present
-
-2. Advance Mobile App Marketing
-   <br />Complete Advance Mobile App Marketing at MSB Academy
-   <br />Dhaka, Bangladesh.
-   <br />Period: 02/20 to 07/20
-
-3. Android App Development
-   <br />Complete Android App Development at MSB Academy
-   <br />Dhaka, Bangladesh
-   <br />Period: 07/19 to 01/20
-
-4. Web Development
-   <br />Complete Web Development at New Horizon
-   <br />Dhaka, Bangladesh
-   <br />Period: 09/17 to 02/18
-
-5. Web Designer
-   <br />Complete Web Designer at Creative It Institute
-   <br />Dhaka, Bangladesh
-   <br />Period: 02/17 to 07/17
-
-6. Basic Photography
-   <br />Pathshala Institute
-   <br />Dhaka, Bangladesh
-   <br />Period: 02/18 to 05/18
-
-
-<!-- training section ends here  -->
-
-<!-- my languages section starts here  -->
-
-<!-- ### Languages:
-
-- 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Communication
-- 🇮🇳 Hindi : Intermediate
-  <br /> -->
-
-<!-- my sports and game section starts here  -->
-
-### Sports / Game / Activities / Hobby:
-
-- 🏏 Cricket, ⚽ Football, 🏸 Badminton,
-- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
-- ✈️ Travelling
-
-<br />
-<!-- my sports and games section ends here  -->
-
-<!-- Honors & awards section starts here  -->
-
-<!--
-### 🏅 Honors & Awards :
--->
-
-Thanks for going through my Portfolio.
-All rights reserved by MD. Shahadot Hossain @2023
-
---
-
-<!-- Links section starts here -->
-
-[website]: http://www.shrcreation.com/
-[youtube]: https://www.youtube.com/channel/UC6ilHykZxnKn0PNxZgsx1Dw
-[facebook]: https://web.facebook.com/shahadot.shr.rahat/
-[linkedin]: https://www.linkedin.com/in/shahadot786
-[github]: https://github.com/shahadot786
-
-<!-- Links section ends here -->
-<!-- Snake Animation -->
-<!-- ## 📈 My GitHub History! -->
-<!-- ![Snake animation](https://github.com/shahadot786/shahadot786/blob/output/github-contribution-grid-snake.svg) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahadot786&" alt="shahadot786" /></p>
