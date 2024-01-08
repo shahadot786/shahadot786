@@ -107,6 +107,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shahadot786/shahadot786/output/snake.svg" alt="Snake animation" />
-
 ###
