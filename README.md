@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">Hi 👋! My name is MD Shahadot Hossain. A passionate front-end developer from Bangladesh</h3>
+<h3 align="left">Hi 👋! My name is MD Shahadot Hossain. A passionate Software Developer from Bangladesh</h3>
 
 ###
 
