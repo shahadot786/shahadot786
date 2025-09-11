@@ -23,6 +23,9 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/shahadot786/shahadot786/output/snake.svg" alt="Snake animation" />
+
+###
 
 <h1 align="center">hey there 👋</h1>
 
