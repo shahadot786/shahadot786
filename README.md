@@ -2,9 +2,10 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+<div align="center">
 # 💫 About Me:
 🔭 I’m currently working on building mobile apps. <br><br>👯 I’m looking to collaborate on open-source React Native projects.<br><br>🤝 I’m looking for help with advanced React Native concepts.<br><br>🌱 I’m currently learning native Android & TypeScript.<br><br>💬 Ask me about: Mobile app development and React Native<br><br>⚡ Fun fact: I love blending technology and creativity to solve real-world problems!
-
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahadot786) 
 
