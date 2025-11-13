@@ -44,7 +44,7 @@
 
 <p align="left">I'm MD. Shahadot Hossain from Bangladesh<br><br>
 - 🔭 I’m working as Mobile App Developer<br>
-- 📚 I'm currently learning DSA<br>
+- 📚 I'm currently learn Full Stack<br>
 - ⚡ In my free time I solve problems
 </p>
 
