@@ -1,28 +1,28 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+---
 
 <div align="center">
   <a href="https://linkedin.com/in/shahadot786" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://www.youtube.com/@shahadot-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://www.facebook.com/shahadot.shr.rahat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shahadot786.shahadot786&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shahadot786.shahadot786" />
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahadot786/shahadot786/output/pacman-contribution-graph-dark.svg">
@@ -30,27 +30,22 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shahadot786/shahadot786/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-###
+<h1 align="center">Hey there 👋</h1>
 
-<h1 align="center">hey there 👋</h1>
+### 👨‍💻 About Me
 
-###
+I'm **MD. Shahadot Hossain**, a passionate developer from **Bangladesh** who loves creating modern, scalable apps for mobile and web.
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 🔭 Currently working as a **Mobile App Developer**
+- 🌱 Expanding into **Full-Stack Development**
+- 🛠 Focus areas: React Native, Node.js, Kotlin, Next.js
+- ⚡ I like solving problems and building real-world apps
 
-###
+---
 
-<p align="left">I'm MD. Shahadot Hossain from Bangladesh<br><br>
-- 🔭 I’m working as Mobile App Developer<br>
-- 📚 I'm currently learn Full Stack<br>
-- ⚡ In my free time I solve problems
-</p>
-
-###
-
-<h3 align="left">🛠 Languages & Tools</h3>
+### 🛠 Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,9 +55,9 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
@@ -72,16 +67,50 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 🚀 Featured Skills & Interests  
+Here are the technologies I’m focusing on now:
 
-###
+- 📱 **Mobile Development:** React Native, Kotlin (Jetpack Compose)  
+- 🌐 **Web Development:** React, Next.js, Tailwind  
+- 🧩 **Backend:** Node.js, Express, REST APIs, MongoDB  
+- 📦 **Engineering Practices:** Clean Architecture, Offline-First Apps  
+- ☁️ **Cloud & DevOps:** Firebase, GitHub Actions, Docker (learning)  
+
+---
+
+### ⭐ Projects & Highlights  
+Some key projects I have worked on:
+
+- **Hello Superstars** — A social platform connecting fans & celebrities  
+- **Face Detection App** — Real-time ML-based detection  
+- **Object Detection App**  
+- **Nagad Pulse** — Mobile app for TMR, TMS, MR, MS  
+- **Unilever M-Lens & CM Supervisor**  
+- **MM Automation – CM Live & MS Live**  
+- **Offline-First React Native Apps** (optimized for low connectivity)  
+
+(More will be inside my upcoming **shahadot-master-repo**)
+
+---
+
+### 🔥 My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shahadot786&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=shahadot786&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak stats" />
 </div>
+
+---
+
+### 📫 Reach Me  
+Feel free to connect or check out my work:
+
+**LinkedIn:** linkedin.com/in/shahadot786  
+**YouTube:** youtube.com/@shahadot-dev  
+
+---
