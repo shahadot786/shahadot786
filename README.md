@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm MD. Shahadot Hossain</h1>
-  <h3 align="center">Mobile App Developer | React Native • React • Kotlin | Future Full-Stack Engineer</h3>
+  <h3 align="center">Mobile App Developer | React Native • React • Expo | Future Full-Stack Engineer</h3>
 </div>
 
 ---
@@ -20,7 +20,7 @@
 ---
 
 ## 🌑 Professional Summary
-I am a **Mobile App Developer** specializing in **React Native** with 3+ years of experience building production-grade apps for **Nagad**, **Unilever**, **BAT**, and **Neuro Sales**.  
+I am a **Mobile App Developer** specializing in **React Native** with 3.5+ years of experience building production-grade apps for **Nagad**, **Unilever**, **BAT**, and **Neuro Sales**.  
 Currently expanding into **full-stack development** with **Node.js, Next.js, MongoDB**, and **Kotlin (Jetpack Compose)**.
 
 I focus on building **fast, reliable, and offline-first applications**, using clean architecture, reusable components, and scalable monorepo structures.
@@ -72,7 +72,6 @@ I focus on building **fast, reliable, and offline-first applications**, using cl
 - **BAT MM Automation – CM Live & MS Live** — Offline-first enterprise apps  
 - **Face Detection App** — Real-time ML detection in React Native  
 - **Object Detection App** — React Native + ML features  
-- **[shahadot-master-repo](https://github.com/shahadot786/shahadot-master-repo)** — Unified monorepo for all apps & backend services
 - **[auth-master-node](https://github.com/shahadot786/auth-master-node)** - A robust, production-ready authentication backend
 - **[shopora-multi-vendor-saas](https://github.com/shahadot786/shopora-multi-vendor-saas)** - This a multi-vendor E-Commerce SaaS by using Microservice Architecture
 - **[rongta-print-demo](https://github.com/shahadot786/rongta-print-demo)** - A React Native application for connecting to and printing receipts via Rongta RPP300BU Bluetooth thermal printers.
