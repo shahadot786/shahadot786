@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Mobile App Developer** with **3.7+ years of experience** building production-grade applications for leading companies including **Nagad**, **Unilever**, **BAT**, and **Neuro Sales**.
+I am a **Mobile App Developer** with **4+ years of experience** building production-grade applications for leading companies including **Nagad**, **Unilever**, **BAT**, and **Neuro Sales**.
 
-🔭 Currently expanding into **full-stack development** with **Node.js, Next.js, MongoDB**, and **NestJs**
+🔭 Currently expanding into **full-stack development** with **Node.js, Next.js, MongoDB**, and **ExpressJs**
 
 🎯 I specialize in building **fast, reliable, and offline-first applications** using clean architecture, reusable components, and scalable monorepo structures
 
