@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=16,21,30&height=200&section=header&text=MD%20Shahadot%20Hossain&fontSize=50&animation=fadeIn&fontColor=10b981" alt="Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+MD.+Shahadot+Hossain;Mobile+App+Developer;Full-Stack+Engineer;React+Native+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -46,7 +46,7 @@ I am a specialized **Software Engineer** with **4+ years of experience** in arch
 
 ### 🛠️ Technical Ecosystem
 
-| Category | technologies |
+| Category | Technologies |
 | :--- | :--- |
 | **Frontend & Mobile** | React Native (Expo/CLI), Next.js, React.js, Redux Toolkit, React Query, Zustand, Tailwind CSS, Tamagui |
 | **Backend & DB** | Node.js, Express.js, Prisma, MongoDB, PostgreSQL, Redis, MySQL |
@@ -132,37 +132,6 @@ I am a specialized **Software Engineer** with **4+ years of experience** in arch
     </td>
   </tr>
 </table>
-
----
-
-### ⚡ Performance Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shahadot786/shahadot786/output/snake.svg" alt="Snake Animation" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahadot786&theme=tokyonight" alt="Profile Summary"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahadot786&theme=tokyonight" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahadot786&theme=tokyonight" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahadot786&theme=tokyonight" alt="Repos per Language"/>
-</div>
-
----
-
-### 💡 Professional Insight
-
-> [!TIP]
-> **"Efficiency is not just about writing code; it's about architecting solutions that stand the test of scale and time."**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&text_color=10b981&title_color=10b981" alt="Random Dev Quote"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=100&section=footer" alt="Footer"/>
