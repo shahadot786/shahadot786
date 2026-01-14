@@ -10,7 +10,7 @@
   </p>
 </div>
 
-<div align="center">
+<div align="left">
   <p>
     Hi, I'm <strong>MD. Shahadot Hossain.</strong> Proficient software engineer with <strong>4+ years</strong> of experience building and maintaining cross-platform mobile applications
     for enterprise clients, including <strong>Unilever, BAT, Nestlé, and Nagad</strong>. Specialized in <strong>automation-based operations</strong>,
