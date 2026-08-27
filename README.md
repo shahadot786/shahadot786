@@ -15,23 +15,20 @@
 
 ## 👋 About Me
 
-Hi, I'm **MD. Shahadot Hossain**, a **Senior Software Engineer (Frontend)** with **5+ years** of experience designing, developing, and scaling modern **web and cross-platform mobile applications** for enterprise clients, including **Unilever, BAT, Nestlé, L'Oréal, and Nagad**.
+Hi, I'm **MD. Shahadot Hossain**, a **Senior Software Engineer** with **5+ years** of experience designing, developing, and scaling **web and cross-platform mobile applications** for enterprise clients, including **Unilever, BAT, Nestlé, L'Oréal, and Nagad**.
 
-I specialize in building high-performance applications using **React.js**, **Next.js**, **React Native**, **Expo**, and **TypeScript**, delivering secure and scalable solutions that serve **10,000+ users** and process **100,000+ daily transactions**.
+I build high-performance products with **React.js**, **Next.js**, **React Native**, **Expo**, and **TypeScript** — delivering secure, scalable solutions that serve **10,000+ users** and process **100,000+ daily transactions**.
 
-My expertise includes:
+**What I focus on:**
 
-- Enterprise Web Applications
-- Cross-platform Mobile Development
-- Frontend Architecture
-- Offline-first Applications
-- Real-time Synchronization
-- Face Detection & Liveness Verification
-- Location Tracking
-- Performance Optimization
-- Automation-driven Business Solutions
+- Enterprise web applications & scalable frontend architecture
+- Cross-platform mobile development (React Native / Expo)
+- Offline-first applications with real-time synchronization
+- Face detection & liveness verification
+- Location tracking & geofencing
+- Performance optimization & automation-driven business solutions
 
-In addition to frontend development, I have **working knowledge of backend technologies** such as **Node.js, Express, NestJS, GraphQL, MongoDB, and PostgreSQL**, and I'm continuously learning backend development fundamentals to better collaborate on full-stack applications and API integrations.
+I also have **working knowledge of backend technologies** — **Node.js, Express, NestJS, GraphQL, MongoDB, and PostgreSQL** — and I'm continuously deepening that side to collaborate more effectively on full-stack systems and API design.
 
 ---
 
@@ -54,6 +51,7 @@ In addition to frontend development, I have **working knowledge of backend techn
 </p>
 
 ### 📱 Mobile
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,redux,firebase&perline=8" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
@@ -72,26 +70,6 @@ In addition to frontend development, I have **working knowledge of backend techn
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,figma,vscode,postman,vercel" />
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shahadot786&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadot786&theme=github-compact&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -128,7 +106,7 @@ In addition to frontend development, I have **working knowledge of backend techn
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shahadot-hossain/">
+<a href="https://www.linkedin.com/in/shahadot786/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -136,7 +114,7 @@ In addition to frontend development, I have **working knowledge of backend techn
 
 ---
 
-<div align="center"
+<div align="center">
 
 ### "Building scalable web and mobile applications that solve real-world problems."
 
